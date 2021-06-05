@@ -23,11 +23,14 @@ If you find the data useful, please use the following bibtex to cite the paper.
 ```
 
 
-### Tree Structures extracted from Doc2Dial
-Coming soon.
+## Document structures extracted from Doc2Dial
 
-### Tree Structures extracted from Natural Questions
-Please find below the tree structures obtained from each of the original Natural Questions files, filtered so that each example contains short answers from the tree structure instead of the first paragraph in Wikipedia page.
+Please find below the document tree structures obtained from v0.9 [Doc2Dial](https://doc2dial.github.io/) document file.
+
+[doc2dial_doc_tree.json.gz](http://html2struct.github.io/nq_files/doc2dial_doc_tree.json.gz)
+
+## Document structures extracted from Natural Questions
+Please find below the document tree structures obtained from each of the original [Natural Questions dataset](https://ai.google.com/research/NaturalQuestions) files, filtered so that each example contains short answers from the tree structure instead of the first paragraph in Wikipedia page.
 
 [nq-train-00.jsonl.gz](http://html2struct.github.io/nq_files/nq-train-00.jsonl.gz) \
 [nq-train-01.jsonl.gz](http://html2struct.github.io/nq_files/nq-train-01.jsonl.gz) \
