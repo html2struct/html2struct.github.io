@@ -25,12 +25,14 @@ If you find the data useful, please use the following bibtex to cite the paper.
 
 ## Document structures extracted from Doc2Dial
 
-Please find below the document tree structures obtained from v0.9 [Doc2Dial](https://doc2dial.github.io/) document file.
+Please find below the document tree structures and the queries obtained from [Version v0.9](https://github.com/doc2dial/doc2dial.github.io/blob/master/file/doc2dial_v0.9.zip) of [Doc2Dial dataset](https://doc2dial.github.io/).
 
 [doc2dial_doc_tree.json.gz](http://html2struct.github.io/nq_files/doc2dial_doc_tree.json.gz)
+[d2d_dialogue_QAs.tar.gz](http://html2struct.github.io/nq_files/d2d_dialogue_QAs.tar.gz)
+
 
 ## Document structures extracted from Natural Questions
-Please find below the document tree structures obtained from each of the original [Natural Questions dataset](https://ai.google.com/research/NaturalQuestions) files, filtered so that each example contains short answers from the tree structure instead of the first paragraph in Wikipedia page.
+Please find below the queries and document tree structures obtained from each of the original [Natural Questions dataset](https://ai.google.com/research/NaturalQuestions) files, filtered so that each example contains short answers from the tree structure instead of the first paragraph in Wikipedia page.
 
 [nq-train-00.jsonl.gz](http://html2struct.github.io/nq_files/nq-train-00.jsonl.gz) \
 [nq-train-01.jsonl.gz](http://html2struct.github.io/nq_files/nq-train-01.jsonl.gz) \
@@ -88,5 +90,5 @@ Please find below the document tree structures obtained from each of the origina
 [nq-dev-03.jsonl.gz](http://html2struct.github.io/nq_files/nq-dev-03.jsonl.gz) \
 [nq-dev-04.jsonl.gz](http://html2struct.github.io/nq_files/nq-dev-04.jsonl.gz) 
 
-
+The test set used in the paper is the dev set above, and the dev set used is composed by the last 50 examples from each of the training files.
 
