@@ -27,8 +27,8 @@ If you find the data useful, please use the following bibtex to cite the paper.
 
 Please find below the document tree structures and the queries obtained from [Version v0.9](https://github.com/doc2dial/doc2dial.github.io/blob/master/file/doc2dial_v0.9.zip) of [Doc2Dial dataset](https://doc2dial.github.io/).
 
-[doc2dial_doc_tree.json.gz](http://html2struct.github.io/nq_files/doc2dial_doc_tree.json.gz)
-[d2d_dialogue_QAs.tar.gz](http://html2struct.github.io/nq_files/d2d_dialogue_QAs.tar.gz)
+[doc2dial_doc_tree.json.gz](http://html2struct.github.io/d2d_files/doc2dial_doc_tree.json.gz)
+[d2d_dialogue_QAs.tar.gz](http://html2struct.github.io/d2d_files/d2d_dialogue_QAs.tar.gz)
 
 
 ## Document structures extracted from Natural Questions
